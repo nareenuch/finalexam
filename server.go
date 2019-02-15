@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nareenuch/myapi/customers"
+	"github.com/nareenuch/finalexam/customers"
 )
 
 func main() {
